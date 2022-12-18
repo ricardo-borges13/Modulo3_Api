@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671400861599" clover="3.2.0">
+  <project timestamp="1671400861599" name="All files">
+    <metrics statements="188" coveredstatements="148" conditionals="54" coveredconditionals="36" methods="46" coveredmethods="39" elements="288" coveredelements="223" complexity="0" loc="188" ncloc="188" packages="13" files="14" classes="14"/>
+    <package name="books.controllers">
+      <metrics statements="36" coveredstatements="32" conditionals="18" coveredconditionals="15" methods="6" coveredmethods="6"/>
+      <file name="book.controller.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/controllers/book.controller.ts">
+        <metrics statements="36" coveredstatements="32" conditionals="18" coveredconditionals="15" methods="6" coveredmethods="6"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="11" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="19" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="33" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="37" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="52" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="70" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="74" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="84" count="3" type="stmt"/>
+        <line num="85" count="3" type="stmt"/>
+        <line num="87" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="91" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="books.factories">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="book.factory.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/factories/book.factory.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="books.models">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="book.model.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/models/book.model.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="books.repositories">
+      <metrics statements="27" coveredstatements="22" conditionals="10" coveredconditionals="7" methods="8" coveredmethods="7"/>
+      <file name="book.repository.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/repositories/book.repository.ts">
+        <metrics statements="27" coveredstatements="22" conditionals="10" coveredconditionals="7" methods="8" coveredmethods="7"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="36" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="49" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="books.routes">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="book.routes.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/routes/book.routes.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="books.services">
+      <metrics statements="35" coveredstatements="28" conditionals="6" coveredconditionals="5" methods="8" coveredmethods="7"/>
+      <file name="book.service.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/books/services/book.service.ts">
+        <metrics statements="35" coveredstatements="28" conditionals="6" coveredconditionals="5" methods="8" coveredmethods="7"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="4" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="79" count="4" type="stmt"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="db">
+      <metrics statements="10" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+      <file name="mongo.connection.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/db/mongo.connection.ts">
+        <metrics statements="10" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="reviews.controllers">
+      <metrics statements="22" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="5" coveredmethods="1"/>
+      <file name="review.controller.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/reviews/controllers/review.controller.ts">
+        <metrics statements="22" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="reviews.factories">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="review.factory.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/reviews/factories/review.factory.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="reviews.models">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="review.model.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/reviews/models/review.model.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="reviews.repositories">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <file name="review.repository.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/reviews/repositories/review.repository.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="36" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="reviews.services">
+      <metrics statements="21" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <file name="review.service.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/reviews/services/review.service.ts">
+        <metrics statements="21" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="error.handler.ts.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/utils/error.handler.ts.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="17" count="15" type="stmt"/>
+        <line num="27" count="12" type="stmt"/>
+      </file>
+      <file name="status.code.ts" path="/home/ricardo/Arnia/node/Projeto_Modulo3/Project-Backend-1-Arnia-main/src/utils/status.code.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
